@@ -1,4 +1,3 @@
-// script.js
 const input = document.getElementById('textInput');
 const button = document.getElementById('reverseBtn');
 const result = document.getElementById('result');
